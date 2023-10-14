@@ -1,0 +1,6 @@
+my name is kushagraavailable memory before clearing cache: 2.3Gi
+available memory after clearing cache: 2.4Gi 
+
+
+available memory before clearing cache: 2.3Gi
+available memory after clearing cache: 2.3Gi 
